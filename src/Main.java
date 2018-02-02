@@ -17,11 +17,11 @@ public class Main {
             int m = Integer.parseInt(valorm);
             switch (m) {
                 case 1:
-                    System.out.println("El perimetro del rectangulo es: "+a.Perimetro());
+                    System.out.println("El perimetro del rectangulo es: " + a.Perimetro());
 
                     break;
                 case 2:
-                    System.out.println("El area del rectangulo es: "+a.Area());
+                    System.out.println("El area del rectangulo es: " + a.Area());
 
                     break;
                 case 3:
